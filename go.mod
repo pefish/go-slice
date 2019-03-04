@@ -1,1 +1,1 @@
-module gitee.com/pefish/p-go-slice
+module github.com/pefish/go-slice
