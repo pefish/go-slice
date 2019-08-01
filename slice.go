@@ -1,4 +1,4 @@
-package p_slice
+package go_slice
 
 type SliceClass struct {
 
